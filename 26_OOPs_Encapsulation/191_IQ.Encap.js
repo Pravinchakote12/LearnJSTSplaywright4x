@@ -16,7 +16,7 @@ class TestCase {
         return this.#count; 
     }
     static setCount(v) {
-        TestCase.#count = v;         // this shows error because static method can not access private variable of class
+        // TestCase.#count = v;         // this shows error because static method can not access private variable of class
         this.#count = v;
     }
 }
