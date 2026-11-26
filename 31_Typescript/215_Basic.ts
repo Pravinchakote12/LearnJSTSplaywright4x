@@ -2,7 +2,7 @@
 
 
 let name1: string = "John";
-let age: number = 30;
+let age1: number = 30;
 let pi: number = 3.14;
 let distance_to_moon: number = 398765434567;
 
